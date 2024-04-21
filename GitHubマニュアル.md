@@ -79,7 +79,7 @@
 
 1. [GitHubのページ](https://github.co.jp/)にとんで「GitHubに登録する」をクリック
 2. 「Username」,「Email address」,「Password」を入力. メールアドレスは学校のものでも自身のものでもよい.
-3. 「Email preferences」にチェックを入れるとGitHubからアナウンスメールが届く. 櫃よなければ,チェックは入れない.
+3. 「Email preferences」にチェックを入れるとGitHubからアナウンスメールが届く. 
 4. 自分がロボットではないことを証明し,「Create account」をクリック
 5. 表示された画面に、GitHubから送られてきたコードを入力
 6. 人数と学生か教師かを聞かれるので、人数は適当に答えて学生を選んで「Continue」をクリック
